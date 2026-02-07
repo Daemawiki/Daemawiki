@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/57a07ad1-d6a1-4074-92d8-b441b9b6fb72" alt="DAEMAWIKI BANNER IMAGE" />
-</p>
+<img width="1840" height="590" alt="image" src="https://github.com/user-attachments/assets/2819bc7d-6028-4fa2-90a7-6933cd4a033c" />
